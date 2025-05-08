@@ -1,5 +1,5 @@
 ![logo](https://github.com/Akshith-M-Naik/Akshith-M-Naik/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.png)
-<h1 align="center">Hi 👋, I'm Akshith M naik</h1>
+<h1 align="center">Hi 👋, I'm Akshith M Naik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width "400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshith-m-naik&label=Profile%20views&color=0e75b6&style=flat" alt="akshith-m-naik" /> </p>
